@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/wangyukun-hxb/react-native-scroll-head-tab-view#readme",
   "peerDependencies": {
-    "react-native": ">=0.50.0",
-    "@react-native-community/viewpager": "^2.0.1"
+    "react-native": ">=0.50.0"
   },
   "dependencies": {
-    "memoize-one": "^5.1.1"
+    "memoize-one": "^5.1.1",
+    "react-native-pager-view": "^6.1.2"
   },
   "devDependencies": {
     "eslint": "^7.6.0",

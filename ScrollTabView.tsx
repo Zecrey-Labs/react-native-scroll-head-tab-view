@@ -10,7 +10,7 @@ import {
     TextStyle,
     InteractionManager,
 } from 'react-native';
-import ViewPager from '@react-native-community/viewpager';
+import ViewPager from 'react-native-pager-view';
 import SceneComponent from './components/SceneComponent';
 import DefaultTabBar from './components/DefaultTabBar';
 
